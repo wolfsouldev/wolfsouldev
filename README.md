@@ -13,7 +13,7 @@
 <h2> 🚀 About Me</h2> 
 
 
- ⚒️ I'm 22 years old<br>
+ ⚒️ I'm 24 years old<br>
  
 ⚡️ Crypto enthusiastic<br>
 
