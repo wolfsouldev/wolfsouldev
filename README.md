@@ -14,9 +14,6 @@
 
 
  ⚒️ I'm 24 years old<br>
- 
-⚡️ Crypto enthusiastic<br>
-
 
 💻Frontend Developer ReactJs / NextJs / Astro<br>
 
