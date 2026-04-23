@@ -1,47 +1,133 @@
+# 👋 Alejandro Fajardo
 
-<h1 align="center">
-    Hello, I'm Alejandro Fajardo
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-<p align="center">
-	<a href="https://github.com/wolfsoul01">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;ReactJs%20|%20NextJs|Astro|%20Vue;NestJs+%2F+Express;&center=true&width=380&height=45">
-	</a>
-	
-</p>
 <div align="center">
-<h2> 🚀 About Me</h2> 
 
+### Full Stack Developer | ReactJS • NextJS • Astro • Vue • NestJS • Express • Go
 
- ⚒️ I'm 24 years old<br>
+<a href="https://astrodevwolf.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-3CAAFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+</a>
+<a href="https://www.linkedin.com/in/alejandro-fajardo-1548a0245" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/wolfsoul01" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1D1D1D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-💻Frontend Developer ReactJs / NextJs / Astro<br>
-
-💻Backend Developer ExpressJs / NestJs / NodeJS<br>
-
-
-<!--😄 I build in public my projects on twitter currently <a href="https://maptodev.vercel.app" target="_blank">mapToDev</a><br>-->
-
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://astrodevwolf.netlify.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-fajardo-1548a0245)
-
-[![gmail](https://img.shields.io/badge/gmail-1DA1F2?style=for-the-badge&logo=gmail&logoColor=white)]()
-</div >
-<div align="center">
-<h2>Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
-
-
-  <img src="https://skillicons.dev/icons?i=nodejs,react,next,javascript,typescript,html,css,tailwindcss,astro,vue" /><br>
-  <img src="https://skillicons.dev/icons?i=nest,express,mongodb,redis,postgres,mysql,docker,kubernetes,github,figma,git,materialui" />
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+---
+
+## 🚀 About Me
+
+```
+Age: 24 | Location: Dev Everywhere 🌍
+Status: Building cool stuff & learning every day 💪
+```
+
+I'm a **Full Stack Developer** passionate about creating elegant, scalable solutions across the entire stack. I specialize in modern frontend frameworks, robust backend systems, and cloud-native infrastructure.
+
+**What I do:**
+- 🎨 Build beautiful, responsive UIs with **React**, **Next.js**, **Astro** & **Vue**
+- ⚙️ Create powerful APIs & microservices with **Node.js**, **Express**, **NestJS** & **Go**
+- 🗄️ Work with databases: **MongoDB**, **PostgreSQL**, **MySQL** & caching layers with **Redis**
+- 🐳 Deploy & containerize with **Docker**, **Kubernetes** & modern DevOps practices
+- 🌐 Design efficient networking architectures & server infrastructure
+
+---
+
+## 💻 Tech Stack
+
+### Frontend Technologies
+![React](https://skillicons.dev/icons?i=react,next,astro,vue,javascript,typescript,html,css,tailwindcss,materialui)
+
+### Backend & Runtime
+![Backend](https://skillicons.dev/icons?i=nodejs,nest,express,go)
+
+### Databases & Caching
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis)
+
+### DevOps & Infrastructure
+![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,github,git)
+
+### Tools & Others
+![Tools](https://skillicons.dev/icons?i=figma)
+
+---
+
+## 🎯 Specialized Areas
+
+### 🔵 Backend Development
+- **Node.js Ecosystem**: Express.js, NestJS, building scalable REST & GraphQL APIs
+- **Go Programming**: Concurrent systems, high-performance services, CLI tools
+- **Real-time Communication**: WebSockets, Server-Sent Events (SSE)
+- **Authentication & Security**: JWT, OAuth2, role-based access control
+
+### 🟢 Frontend Development  
+- **Modern Frameworks**: React with Hooks, Next.js SSR/SSG, Astro for static sites
+- **State Management**: Context API, Redux, Zustand
+- **UI Components**: Building design systems, responsive layouts
+- **Performance**: Code splitting, lazy loading, optimization techniques
+
+### 🟡 Networking & Infrastructure
+- **Server Architecture**: Microservices, monolithic & hybrid patterns
+- **API Design**: RESTful APIs, GraphQL, gRPC
+- **Network Protocols**: TCP/IP, HTTP/HTTPS, DNS, SSL/TLS
+- **Deployment**: Cloud platforms, containerization, orchestration
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfsouldev&layout=donut&theme=dark">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=wolfsouldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfsouldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wolfsouldev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10)](https://github.com/wolfsouldev)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfsouldev&layout=donut&theme=react&border_radius=10)](https://github.com/wolfsouldev)
+
+[![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=wolfsouldev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5)](https://github.com/wolfsouldev)
+
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+
+---
+
+## 🛠️ Current Focus
+
+- 🔨 Exploring advanced **Go** patterns for backend systems
+- 🚀 Building scalable microservices architectures
+- 📚 Deepening knowledge in **networking** and **system design**
+- ⚡ Performance optimization & benchmarking
+- 🌐 Cloud-native development with Kubernetes
+
+---
+
+## 💡 Philosophy
+
+> *"Write code that is not just functional, but beautiful. Clean architecture, attention to detail, and continuous learning are the foundations of great software."*
+
+I believe in:
+- ✅ Writing clean, maintainable code
+- ✅ Building for scalability from day one
+- ✅ Documenting thoroughly
+- ✅ Contributing to open-source
+- ✅ Always learning and experimenting
+
+---
+
+## 🔗 Let's Connect
+
+I'm always open to collaborating on interesting projects, discussing tech, or grabbing virtual coffee ☕
+
+<div align="center">
+
+[Portfolio](https://astrodevwolf.netlify.app) • [LinkedIn](https://www.linkedin.com/in/alejandro-fajardo-1548a0245) • [GitHub](https://github.com/wolfsoul01)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer)
+
+</div>
