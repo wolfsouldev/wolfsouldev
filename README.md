@@ -120,7 +120,7 @@ I'm always open to collaborating on interesting projects, discussing tech, or gr
 
 <div align="center">
 
-[Portfolio](https://astrodevwolf.netlify.app) • [LinkedIn](https://www.linkedin.com/in/alejandro-fajardo-1548a0245) • [GitHub](https://github.com/wolfsoul01)
+[Portfolio](https://alejandrodevportfolio.netlify.app/) • [LinkedIn](https://www.linkedin.com/in/alejandro-fajardo-1548a0245) • [GitHub](https://github.com/wolfsoul01)
 
 </div>
 
