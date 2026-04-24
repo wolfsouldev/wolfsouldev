@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | ReactJS • NextJS • Astro • Vue • NestJS • Express • Go
 
-<a href="https://astrodevwolf.netlify.app" target="_blank">
+<a href="https://alejandrodevportfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-3CAAFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
 </a>
 <a href="https://www.linkedin.com/in/alejandro-fajardo-1548a0245" target="_blank">
